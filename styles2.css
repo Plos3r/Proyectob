@@ -1,0 +1,192 @@
+body {
+    font-family: cursive;
+    background: url(Imagenes/brawl_lobby_animated.mp4);
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.sprayhypercharge{
+    max-width: 30%;
+    margin-left: 450px;
+}
+header h1 {
+    color: rgb(36, 211, 30);
+    background: rgba(150, 31, 104, 0.466);
+    display: inline-block;
+    padding: 20px 615px;
+    border-radius: 70px;
+}
+.videovalentinelobby{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.container2 {
+    font-size: 20px;
+    width: 100%;
+    max-width: 920px;
+    margin: 0px auto;
+    padding: 0px;
+    border-radius: 0px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+}
+
+.probuzz {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: #f8b807;
+    margin-top: 20px;
+    margin-left: 150px;
+    
+}
+
+p {
+    line-height: 1.6;
+    margin-left: -110px;
+    font-size: 30px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ffcc00;
+    color: #333;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #e6b800;
+}
+.container3 img.sp2,
+.container3 img.g1,
+.container3 img.ge1,
+.container3 img.ge2,
+.container3 img.buzzhypercharge{
+    max-width: 10%;
+    margin-left: 100px;
+}
+
+.showcase1{
+    max-width: 100%;
+}
+.p-1{
+    font-size: 25px;
+    margin-left: 0px;
+    text-align: center;
+    
+}
+.buzzrender{
+    width: 600px;
+    margin-left: -300px;
+}
+.showcase1{
+    width: 1000px;
+    margin-left: 150px;
+
+}
+
+.starp2{
+    max-width: 20%;
+    margin-left: 525px;
+}
+.habilidadestelar{
+    color: #e6b800;
+margin-left: 460px;
+background-color: #0000002d;
+display: inline-block;
+padding: auto;
+}
+
+.ga1{
+color: #11cc1bf5;
+}
+h2{
+    font-size:  40px;
+    text-align: center;
+}
+.gadget1{
+    max-width: 20%;
+    margin-left: 525px;
+    }
+.p-2{
+    font-size: 25px;
+    margin-left: 0px;
+    text-align: center;
+    
+}
+.buzzgadgetvideo{
+    margin-left: 215px;
+}
+.refuerzo1{
+    max-width: 20%;
+    margin-left: 525px;
+}
+.refuerzo{
+    color: aquamarine;
+}
+.p-3{
+    font-size: 25px;
+    margin-left: 0px;
+    text-align: center;
+}
+.p-4{
+    font-size: 25px;
+    margin-left: 0px;
+    text-align: center;
+}
+.refuerzo2{
+    max-width: 20%;
+    margin-left: 525px;
+    color: aquamarine;
+}
+.refuerzoescudo{
+    max-width: 20%;
+    margin-left: 525px;
+}
+.hipercarga{
+    color: blueviolet;
+}
+.hipercargapng{
+    max-width: 20%;
+    margin-left: 525px;
+}
+.p-5{
+    font-size: 25px;
+    margin-left: 0px;
+    text-align: center;
+
+}
+.hipercargavideo{
+    margin-left: 215px;
+}
+.maxdab{
+max-width: 40%;
+margin-left: 140px
+}
+.SANDY{
+max-width: 40%;
+margin-bottom: 140px;
+}
+.inicio{
+    text-align: center;
+}
